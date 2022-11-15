@@ -11,6 +11,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-235a96?style=plastic&logo=typescript&logoColor=white" />
   ![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&style=plastic)
   <img alt="Effector" src="https://img.shields.io/badge/-Effector-ff8c00?style=plastic&logo=effector&logoColor=white" /> <br />
+  https://www.codewars.com/users/LeMiAl/badges/large
 
 Могу возвести инфраструктуру для быстрой и качественной командной разработки с использованием CI/CD.<br />
 
