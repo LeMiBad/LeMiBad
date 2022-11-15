@@ -4,13 +4,15 @@
 
 ## Что я умею
 
+[![codewars](https://www.codewars.com/users/LeMiAl/badges/large)](https://www.codewars.com/users/LeMiAl)
+
 Создать любое веб-приложение, будь то лендинг, e-commerce, блог или просто удобный сайт с кастомной логикой и приятным интерфейсом.<br />
 
 На фронтенде активно использую
   <img alt="ReactJS" src="https://img.shields.io/badge/-React-353535?style=plastic&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-235a96?style=plastic&logo=typescript&logoColor=white" />
   ![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&style=plastic)
-  <img alt="Effector" src="https://img.shields.io/badge/-Effector-ff8c00?style=plastic&logo=effector&logoColor=white" /> [![codewars](https://www.codewars.com/users/LeMiAl/badges/large)](https://www.codewars.com/users/LeMiAl) <br />
+  <img alt="Effector" src="https://img.shields.io/badge/-Effector-ff8c00?style=plastic&logo=effector&logoColor=white" /> <br />
 
 Могу возвести инфраструктуру для быстрой и качественной командной разработки с использованием CI/CD.<br />
 
