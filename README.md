@@ -36,6 +36,8 @@
 
 * [**Portfolio**](https://github.com/LeMiBad/Projects) Мой небольшой сайтик, на котором можно в кратце посмотреть все мои проекты и достижения (React.js + Effector + Sass + TypeScript)
 
+* [**Portfolio**](https://github.com/LeMiBad/Projects) (В разработке) Мой коммерческий проект написанный на NextJS + React, админка будет взаимодействовать с базой данных через апи. Вёрстка, сервер, клиент, апи, адаптив, всё на мне под ключ (Next.js + React.js + Effector + Sass + TypeScript)
+
 * [**React-Game**](https://github.com/LeMiBad/react-game) Приложение-игра, главной механикой которой является заполнения игрового поля собой, с небольшими трудностями) (React.js + Redux-toolkit + Sass + TypeScript)
 
 * [**Snake**](https://github.com/LeMiBad/Snake) Каждый уважающий себя программист рано или поздно напишет свою змейку, вот моя реализация (React.js + Effector + Sass + TypeScript)
