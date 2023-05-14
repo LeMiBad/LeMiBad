@@ -34,15 +34,15 @@
 
 ## Проекты
 
-* [**Portfolio**](https://github.com/LeMiBad/Projects) Мой небольшой сайтик, на котором можно в кратце посмотреть все мои проекты и достижения (React.js + Effector + Sass + TypeScript)
+* [**Генератор интернет магазинов**](https://t.me/tesikekbot?start=3) С нуля поднял сервис генерирующий интернет магазин на основе API МойСклад (React.js + Effector + TypeScript)
 
-* [**Shop**](https://github.com/LeMiBad/Projects) (В разработке) Мой коммерческий проект написанный на NextJS + React, админка будет взаимодействовать с базой данных через апи. Вёрстка, сервер, клиент, апи, адаптив, всё на мне под ключ (Next.js + React.js + Effector + Sass + TypeScript)
+* [**POCCAR**](https://github.com/LeMiBad/Projects) Учавствовал в разработке агрегатора покерных турниров, писал бекенд + микросервисная архитектура на фронтенде (React.js + Effector + TypeScript + NodeJS + Express)
 
-* [**React-Game**](https://github.com/LeMiBad/react-game) Приложение-игра, главной механикой которой является заполнения игрового поля собой, с небольшими трудностями) (React.js + Redux-toolkit + Sass + TypeScript)
+* [**Газстройпром**](https://gsp-location-game.fut.ru/) Приложение написанное для привлечения студентов на стажировку в газпром (React.js + Redux-toolkit + TypeScript)
 
-* [**Snake**](https://github.com/LeMiBad/Snake) Каждый уважающий себя программист рано или поздно напишет свою змейку, вот моя реализация (React.js + Effector + Sass + TypeScript)
+* [**Новогодняя ночь**](https://new-year-kitchen.fut.ru/) Приложение написанное для привлечения студентов на различные программы стажировок разных крупных компании в РФ (React.js + Effector + TypeScript)
 
-* [**NoteBook**](https://github.com/LeMiBad/NoteBook) Приложение-социальная сеть, для создания своей контактной книжкой, регистрацией и авторизацие, фильтрацией контактов (React.js + Redux-toolkit + Sass + TypeScript + Json-Server)
+* [**Витрина**]() (В разработке) Сервис - интегратор различных CRM систем для более удобной работы с ними и предоставления мостика для других функций например из проекта "Генератор интернер магазинов" (Next.js + React.js + Effector + TypeScript)
 
 ## Контакты
 
