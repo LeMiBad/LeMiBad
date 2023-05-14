@@ -36,7 +36,7 @@
 
 * [**Генератор интернет магазинов**](https://t.me/tesikekbot?start=3) С нуля поднял сервис генерирующий интернет магазин на основе API МойСклад (React.js + Effector + TypeScript)
 
-* [**POCCAR**](https://github.com/LeMiBad/Projects) Учавствовал в разработке агрегатора покерных турниров, писал бекенд + микросервисная архитектура на фронтенде (React.js + Effector + TypeScript + NodeJS + Express)
+* [**POCCAR**](https://pocarr.net) Учавствовал в разработке агрегатора покерных турниров, писал бекенд + микросервисная архитектура на фронтенде (React.js + Effector + TypeScript + NodeJS + Express)
 
 * [**Газстройпром**](https://gsp-location-game.fut.ru/) Приложение написанное для привлечения студентов на стажировку в газпром (React.js + Redux-toolkit + TypeScript)
 
