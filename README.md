@@ -47,5 +47,4 @@
 ## Контакты
 
 **telegram**: https://t.me/le_mi_al
-**vk**: https://vk.com/nomerodiin
 **email**: 79872121399.yandex@gmail.com
